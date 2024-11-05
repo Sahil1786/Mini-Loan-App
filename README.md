@@ -17,7 +17,7 @@ To clone the Mini Loan App project from GitHub, follow these steps:
 3. Use the following command to clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/mini-loan-app.git
+   git clone [https://github.com/your-username/mini-loan-app.git](https://github.com/Sahil1786/Mini-Loan-App)
    
    cd mini-loan-app
 
